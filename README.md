@@ -1,4 +1,5 @@
 gsantovena.github.io
 ====================
 
-gsantovena
+Projects, scripts, tips and tricks about my life in IT.
+
