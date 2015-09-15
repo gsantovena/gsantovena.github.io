@@ -21,6 +21,7 @@ Hello, my name is Gerardo Santoveña.
     * Python
     * Perl
     * PHP
+    * Java
 * Baseball
 * Tennis
 
