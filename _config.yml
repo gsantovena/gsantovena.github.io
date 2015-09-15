@@ -2,7 +2,7 @@
 
 title:            Gerardo Santoveña
 locale:           en_US
-url:
+url:              http://gsantovena.github.io
 
 
 # Jekyll configuration
@@ -29,7 +29,7 @@ owner:
   name: Gerardo Santoveña
   #avatar: bio-photo.jpg
   avatar: https://secure.gravatar.com/avatar/051742152e1bd22b0a511556f1083b38
-  bio: "Sysadmin and developer. Baseball and tennis player."
+  bio: "Sysadmin and developer. Baseball and tennis player. Husband and dad."
   email: gsantovena@gmail.com
   disqus-shortname:
   twitter: gsantovena
