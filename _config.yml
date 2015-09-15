@@ -1,15 +1,62 @@
-# Site settings
-title: Gerardo Santoveña
-email: gsantovena@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hello, my name is Gerardo Santoveña and this is where I write about my
-  life in IT. A little bit of development, and a little bit about systems 
-  administration. You will see here resolution to common problems, scripts,
-  tips and tricks and anything that goes through my mind.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gsantovena.github.io" # the base hostname & protocol for your site
-twitter_username: gsantovena
-github_username:  gsantovena
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title:            Gerardo Santoveña
+locale:           en_US
+url:
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Gerardo Santoveña
+  #avatar: bio-photo.jpg
+  avatar: https://secure.gravatar.com/avatar/051742152e1bd22b0a511556f1083b38
+  bio: "Sysadmin and developer. Baseball and tennis player."
+  email: gsantovena@gmail.com
+  disqus-shortname:
+  twitter: gsantovena
+  facebook: gsantovena
+  google:
+    plus: GerardoSantoveña
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: gsantovena
+  stackoverflow: 1449889/gsantovena #   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: gsantovena
+  xing: #username
+  instagram: gsantovena
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #gsantovena
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
