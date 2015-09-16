@@ -55,19 +55,26 @@ excerpt: "Work experience, certifications, trainings."
 
 * Linux
     * Debian, Ubuntu, Redhat, CoreOS, CentOS
+* Windows Server
 * Amazon Web Services
     * EC2, EC2 Container Service, Elastic Beanstalk, S3, CloudFront, RDS, ElastiCache, Redshift, VPC, Route53, CodeCommit, CloudWatch, CloudFormation, OpsWorks, EMR, SNS, SES, WorkSpaces, CLI
 * Apache Hadoop
 * Apache Spark
+* Apache Storm
 * Apache Kafka
 * Apache Zookeeper
-* Selfdom
+* Druid
+* Serfdom
+* Vagrant
+* Docker
 * Chef
 * Programming Languages
     * Python
     * Java
     * Perl
     * PHP
+    * Tcl
+    * Scala
 
 ## Certifications
 
