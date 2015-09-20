@@ -12,7 +12,7 @@ image:
 
 > Automate what you can, document what you can&rsquo;t and have the wisdom to know the difference.
 
-Hello, my name is Gerardo Santoveña. Along my life I have done all kind of activities: martial arts (aikido, karate, judo, taekwondo), played sports (baseball, soccer, basketball), computer programming (Basic _oh yeah, I was 9 years old_, FoxPro, Pascal, C, C++, Java, Perl, PHP, Scala, etc). But my passions can be summarized in *linux, baseball, and tennis*. I love my wife Jecca and my baby son Isaac.
+Hello, my name is Gerardo Santoveña. Along my life I have done all kind of activities: martial arts (aikido, karate, judo, taekwondo), played sports (baseball, soccer, basketball), computer programming (Basic _oh yeah, I was 9 years old_, FoxPro, Pascal, C, C++, Java, Perl, PHP, Scala, etc). But my passions can be summarized in *linux, programming, baseball, and tennis*. I love my wife Jecca and my baby son Isaac.
 {: .notice}
 
 ## Interests
