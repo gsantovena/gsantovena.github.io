@@ -15,7 +15,7 @@ excerpt: "Work experience, certifications, trainings."
 
 ### Katch, LLC
 
-* Network Operations Manager
+* Site Reliability Engineer & Network Operations Manager
 
     * Design, implement and maintain redundant, scalable, robust infrastructure to support n-tier interactive web applications on the cloud build on different programming languages that run on Linux and Windows Server.
     * MySQL, PostgreSQL, and SQL Server systems administration.
@@ -75,6 +75,7 @@ excerpt: "Work experience, certifications, trainings."
     * PHP
     * Tcl
     * Scala
+    * C#
 
 ## Certifications
 
