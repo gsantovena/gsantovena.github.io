@@ -21,6 +21,7 @@ Hello, my name is Gerardo Santoveña. Along my life I have done all kind of acti
     * [Linux](http://www.linuxfoundation.org/)
     * [Windows Server](http://blogs.technet.com/b/windowsserver/)
 * Development
+    * [Go](https://golang.org/)
     * [Python](https://www.python.org/)
     * [Perl](https://www.perl.org/)
     * [PHP](http://php.net/)
@@ -43,5 +44,4 @@ Hello, my name is Gerardo Santoveña. Along my life I have done all kind of acti
 * Tennis
     * Roger Federer
     * Ana Ivanovic
-
 
