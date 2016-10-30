@@ -13,17 +13,48 @@ excerpt: "Work experience, certifications, trainings."
 
 ## Work experience
 
-### Katch, LLC
+### Vantage Media II (2015 - Present)
 
-* Site Reliability Engineer & Network Operations Manager
+* Lead SRE & Network Operations Manager
 
-    * Design, implement and maintain redundant, scalable, robust infrastructure to support n-tier interactive web applications on the cloud build on different programming languages that run on Linux and Windows Server.
-    * MySQL, PostgreSQL, and SQL Server systems administration.
-    * Maintain the Local Network and VPNs between offices outside the country.
-    * Document systems architectures.
-    * Monitor 24/7 the functionality of the sites.
+    * Work closely with developers in supporting new features, services, and releases
+    * Monitor site reliability and performance 
+    * Scale infrastructure to meet demand 
+    * Troubleshoot site down issues 
+    * Continuously monitor/improve the quality of the infrastructures 
+    * Develop automation tools 
+    * Document system design and procedures 
+    * Participate in on-call rotation
 
-### ACS Guatemala
+### Web Dev Inc (2015)
+
+* Network Operations Manager
+
+    * Drive Incident management, monitoring, tracking, ensuring service level and process compliance.
+    * Drive promotion of proactive mindset, SLA compliance, and meaningful metrics reporting.
+    * Manage vendor relationships, reporting, and escalations 
+
+### Web Dev Inc (2012 - 2014)
+
+* Senior Systems Administrator
+
+
+    * Design, implement and maintain redundant, scalable, robust infrastructures to support n-tier interactive web applications on the cloud built on different programming languages that run on Linux, Windows 2008/2012
+    * MySQL, PostgreSQL and SQL Server 2008 systems administration
+    * Maintain the Local Network and VPNs between offices outside the country
+    * Document systems architectures
+    * Monitor 24/7 the functionality of the sites
+
+### Agroamérica (2011 - 2012)
+
+* Chief Technical Officer
+
+    * Design and implementation of new infrastructure projects
+    * End user support manager
+    * Technical support manager
+
+
+### ACS Guatemala (2009 - 2011)
 
 * Sr. Systems Engineer
 
@@ -31,7 +62,7 @@ excerpt: "Work experience, certifications, trainings."
     * Windows Servers administration and troubleshooting.
     * Projects implementations and design.
 
-### Prosisco / Executrain
+### Prosisco / Executrain (2005 - 2009)
 
 * Technology Consultant and Trainer
 
@@ -42,7 +73,7 @@ excerpt: "Work experience, certifications, trainings."
     * Trainer for the Linux+ certificatin.
     * Java and PHP trainer.
 
-### ITM
+### ITM (2001 - 2005)
 
 * Technology Consultant, Trainer and Developer
 
