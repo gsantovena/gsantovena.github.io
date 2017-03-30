@@ -111,6 +111,7 @@ excerpt: "Work experience, certifications, trainings."
 ## Certifications
 
 * AWS Certified Solutions Architect
+* AWS Certified Developer
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Linux+
