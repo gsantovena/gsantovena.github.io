@@ -13,7 +13,11 @@ excerpt: "Work experience, certifications, trainings."
 
 ## Work experience
 
-### Vantage Media II (2015 - Present)
+### Pythian (2018 - Present)
+
+* Linux Site Reliability Consultant
+
+### Vantage Media II (2015 - 2017)
 
 * Lead SRE & Network Operations Manager
 
