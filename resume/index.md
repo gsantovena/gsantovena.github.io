@@ -93,16 +93,14 @@ excerpt: "Work experience, certifications, trainings."
 * Windows Server
 * Amazon Web Services
     * EC2, EC2 Container Service, Elastic Beanstalk, S3, CloudFront, RDS, ElastiCache, Redshift, VPC, Route53, CodeCommit, CloudWatch, CloudFormation, OpsWorks, EMR, SNS, SES, WorkSpaces, CLI
-* Apache Hadoop
-* Apache Spark
-* Apache Storm
 * Apache Kafka
 * Apache Zookeeper
 * Druid
-* Serfdom
 * Vagrant
 * Docker
+* Ansible
 * Chef
+* Terraform
 * Programming Languages
     * Python
     * Java
