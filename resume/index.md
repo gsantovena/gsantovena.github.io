@@ -112,6 +112,7 @@ excerpt: "Work experience, certifications, trainings."
 
 ## Certifications
 
+* Google Cloud Certified - Associate Cloud Engineer
 * AWS Certified Solutions Architect
 * AWS Certified Developer
 * Linux Foundation Certified System Administrator
