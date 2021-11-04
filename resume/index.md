@@ -112,6 +112,7 @@ excerpt: "Work experience, certifications, trainings."
 
 ## Certifications
 
+* Certified Kubernetes Administrator
 * Google Cloud Certified - Associate Cloud Engineer
 * AWS Certified Solutions Architect
 * AWS Certified Developer
