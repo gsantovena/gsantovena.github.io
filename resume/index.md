@@ -117,6 +117,7 @@ excerpt: "Work experience, certifications, trainings."
 * AWS Certified Solutions Architect
 * AWS Certified Developer
 * Linux Foundation Certified System Administrator
+* HashiCorp Certified: Terraform Associate
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Linux+
