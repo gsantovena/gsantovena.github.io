@@ -13,7 +13,11 @@ excerpt: "Work experience, certifications, trainings."
 
 ## Work experience
 
-### Pythian (2018 - Present)
+### Northfield IT (2022 - Present)
+
+* DevOps Engineer
+
+### Pythian (2018 - 2022)
 
 * Linux Site Reliability Consultant
 
