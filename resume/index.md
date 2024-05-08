@@ -17,9 +17,27 @@ excerpt: "Work experience, certifications, trainings."
 
 * DevOps Engineer
 
+    * Collect and document user's requirements and develop logical and physical specifications.
+    * Research, evaluate, and synthesize technical information to design, develop and test computer-based systems.
+    * Develop data, process, and network models to optimize architecture and to evaluate the performance and reliability of designs.
+    * Plan, design, and co-ordinate the development, installation, integration and operation of computer-based systems.
+    * Assess, troubleshoot, document, upgrade, and develop maintenance procedures for operating systems, communications environments and applications software.
+    * Operate automatic or other testing equipment to ensure product quality.
+    * Conduct tests and perform security and quality controls.
+    * Execute and document results of software application tests and information and telecommunication systems tests.
+
 ### Pythian (2018 - 2022)
 
 * Linux Site Reliability Consultant
+
+    * Design and implementation support for a wide range of technologies:
+        * Linux, GCP, AWS, Azure, K8s, ElasticSearch, Kibana, Redis, HAProxy, DataDog, NewRelic, Windows, Hadoop, Ambari.
+    * Ensure timely resolution of issues reported by clients or automated alerting.
+    * Configuration of systems like Puppet and Ansible, and development of scripts to automate tasks and maintain health of systems.
+    * Systems upgrades with configuration and its troubleshooting.
+    * Design and implementacion of CI/CD pipelines.
+    * Handle high-pressure situations with a calm and professional manner
+    * Prioritize between multiple simultaneous issues and projects
 
 ### Vantage Media II (2015 - 2017)
 
