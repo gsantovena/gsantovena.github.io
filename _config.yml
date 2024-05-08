@@ -25,7 +25,7 @@ url                      : "https://gsantovena.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gsantovena/gsantovena.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "https://secure.gravatar.com/avatar/051742152e1bd22b0a511556f1083b38"
+logo                     : # "https://secure.gravatar.com/avatar/051742152e1bd22b0a511556f1083b38"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -115,12 +115,12 @@ author:
   name             : "Gerardo Santoveña"
   avatar           : "https://secure.gravatar.com/avatar/051742152e1bd22b0a511556f1083b38"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Guatemala"
   email            : "gsantovena@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:gsantovena@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:gsantovena@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gsantovena.github.io"
@@ -311,10 +311,19 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
     values:
       layout: single
       author_profile: true

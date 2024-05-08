@@ -1,8 +1,9 @@
 ---
 layout: single
 title: Resume
-tags: resume, certifications, work, experience
+tags: resume certifications work experience
 modified: 2015-09-14
+permalink: /resume/
 excerpt: "Work experience, certifications, trainings."
 #image:
 #  feature: sample-image-3.jpg

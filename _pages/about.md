@@ -1,8 +1,9 @@
 ---
 layout: single
 title: About me
-tags: about, gsantovena
+tags: about gsantovena
 modified: 2024-05-08
+permalink: /about/
 comments: true
 image:
   #feature: sample-image-2.jpg
