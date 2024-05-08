@@ -11,6 +11,8 @@ excerpt: "Work experience, certifications, trainings."
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+{% include _toc.html %}
+
 ## Work experience
 
 ### Northfield IT (2022 - Present)
