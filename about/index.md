@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: single
 title: About me
-tags: [about, gsantovena]
-modified: 2015-09-14
+tags: about, gsantovena
+modified: 2024-05-08
 comments: true
 image:
   #feature: sample-image-2.jpg

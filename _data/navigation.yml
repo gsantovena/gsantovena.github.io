@@ -1,11 +1,9 @@
-# Site navigation links
-
-- title: About
-  url: /about/
-
-- title: Posts
-  url: /posts/
-
-- title: Resume
-  url: /resume/
-
+main:
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /posts/
+  - title: "Resume"
+    url: /resume/
+  - title: "Tags"
+    url: /tags/

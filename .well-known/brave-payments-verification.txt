@@ -1,4 +1,0 @@
-This is a Brave Payments publisher verification file.
-
-Domain: gsantovena.github.io
-Token: a2bdd79d7a60f61489b3d82cccef567e9f8735437da8a76f996236827811b0e2
