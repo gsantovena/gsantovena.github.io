@@ -136,6 +136,8 @@ excerpt: "Work experience, certifications, trainings."
 
 ## Certifications
 
+[Credly Profile](https://www.credly.com/users/gerardo-santovena/badges)
+
 * Certified Kubernetes Administrator
 * Google Cloud Certified - Associate Cloud Engineer
 * AWS Certified Solutions Architect
