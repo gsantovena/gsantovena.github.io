@@ -14,7 +14,6 @@ image:
 > Automate what you can, document what you can&rsquo;t and have the wisdom to know the difference.
 
 Hello, my name is Gerardo Santoveña. I'm a seasoned DevOps Engineer with over two decades of experience in the IT field. Outside of work, I'm all about sports—I live for baseball games, tennis matches, and adventurous mountain biking trails. But above all, my heart belongs to my amazing wife and kids—they're my greatest joy and inspiration in life.
-
 {: .notice}
 
 ## Interests
