@@ -7,3 +7,6 @@ main:
     url: /resume/
   - title: "Tags"
     url: /tags/
+  - title: "Credly Profile"
+    url: https://www.credly.com/users/gerardo-santovena/badges
+    target: _blank
