@@ -13,7 +13,8 @@ image:
 
 > Automate what you can, document what you can&rsquo;t and have the wisdom to know the difference.
 
-Hello, my name is Gerardo Santoveña. Along my life I have done all kind of activities: martial arts (aikido, karate, judo, taekwondo), played sports (baseball, soccer, basketball, tennis), computer programming (Basic _oh yeah, I was 9 years old_, FoxPro, Pascal, C, C++, C#, Java, Perl, PHP, Python, Scala, etc). But my passions can be summarized in *linux, programming, baseball, and tennis*. I love my wife Jecca and my baby son Isaac.
+Hello, my name is Gerardo Santoveña. I'm a seasoned DevOps Engineer with over two decades of experience in the IT field. Outside of work, I'm all about sports—I live for baseball games, tennis matches, and adventurous mountain biking trails. But above all, my heart belongs to my amazing wife and kids—they're my greatest joy and inspiration in life.
+
 {: .notice}
 
 ## Interests
