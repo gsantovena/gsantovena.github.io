@@ -35,8 +35,8 @@ excerpt: "Work experience, certifications, trainings."
     * Design and implementation support for a wide range of technologies:
         * Linux, GCP, AWS, Azure, K8s, ElasticSearch, Kibana, Redis, HAProxy, DataDog, NewRelic, Windows, Hadoop, Ambari.
     * Ensure timely resolution of issues reported by clients or automated alerting.
-    * Configuration of systems like Puppet and Ansible, and development of scripts to automate tasks and maintain health of systems.
-    * Systems upgrades with configuration and its troubleshooting.
+    * Configuration of systems like Puppet and Ansible and development of scripts to automate tasks and maintain system health.
+    * Systems upgrades with configuration and troubleshooting.
     * Design and implementacion of CI/CD pipelines.
     * Handle high-pressure situations with a calm and professional manner
     * Prioritize between multiple simultaneous issues and projects
