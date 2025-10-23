@@ -37,4 +37,4 @@ gem "base64"
 gem "bigdecimal"
 
 gem "minimal-mistakes-jekyll"
-gem "rexml", "~> 3.2"
+gem "rexml", ">= 3.3.9"
