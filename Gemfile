@@ -38,3 +38,4 @@ gem "bigdecimal"
 
 gem "minimal-mistakes-jekyll"
 gem "rexml", ">= 3.3.9"
+gem "uri", ">= 0.13.3"
