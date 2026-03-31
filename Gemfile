@@ -35,6 +35,7 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "csv"
 gem "base64"
 gem "bigdecimal"
+gem "json", "2.19.2"
 
 gem "minimal-mistakes-jekyll"
 gem "rexml", ">= 3.3.9"
