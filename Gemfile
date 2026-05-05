@@ -38,6 +38,7 @@ gem "bigdecimal"
 gem "json", "2.19.2"
 
 gem "minimal-mistakes-jekyll"
+gem "public_suffix", "< 7" # public_suffix 7.x requires Ruby >= 3.2, but CI still runs on Ruby 3.1
 gem "rexml", ">= 3.3.9"
 gem "uri", ">= 0.13.3"
 gem "faraday", ">= 2.14.1"
