@@ -79,7 +79,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.21.1)
+    json (2.21.2)
     kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -205,7 +205,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.3.3)
   jekyll-feed (~> 0.12)
-  json (>= 2.19.9)
+  json (>= 2.21.2)
   minimal-mistakes-jekyll
   public_suffix (< 7)
   rexml (>= 3.3.9)
