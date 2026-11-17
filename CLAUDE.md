@@ -8,8 +8,8 @@ This is a Jekyll-based static site using the Minimal Mistakes theme, deployed to
 
 - **Static Site Generator**: Jekyll 4.3.3
 - **Theme**: minimal-mistakes-jekyll
-- **Ruby Version**: 3.1 (as specified in GitHub Actions)
-- **Bundler Version**: 2.5.23 (compatible with Ruby 3.1)
+- **Ruby Version**: 3.4 (as specified in GitHub Actions)
+- **Bundler Version**: 2.5.23
 - **Deployment**: GitHub Pages via GitHub Actions
 
 ## Development Commands
@@ -66,7 +66,7 @@ bundle check
 ### Deployment
 - Automatic deployment to GitHub Pages via `.github/workflows/jekyll.yml`
 - Triggers on pushes to `main` branch
-- Uses Ruby 3.1 with bundler cache for faster builds
+- Uses Ruby 3.4 with bundler cache for faster builds
 - Builds with `JEKYLL_ENV: production` environment
 - Deployment artifacts available at `https://gsantovena.github.io`
 
@@ -113,9 +113,9 @@ When Dependabot alerts are received:
 7. Merge after CI/CD validation
 
 ### Version Compatibility
-- Ruby 3.1 is the target version for GitHub Actions
-- Bundler 2.5.23 is locked for Ruby 3.1 compatibility
-- All gems should be compatible with Ruby 3.1+
+- Ruby 3.4 is the target version for GitHub Actions
+- Bundler 2.5.23 is locked
+- All gems should be compatible with Ruby 3.4+
 
 ### Testing Before Deployment
 ```bash
@@ -158,7 +158,7 @@ Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>
 ### Common Issues
 
 **Bundle Install Fails**
-- Verify Ruby version: `ruby -v` (should be 3.1+)
+- Verify Ruby version: `ruby -v` (should be 3.4+)
 - Clear bundle cache: `bundle clean --force`
 - Reinstall: `rm -rf vendor/bundle && bundle install`
 
